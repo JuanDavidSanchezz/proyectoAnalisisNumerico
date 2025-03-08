@@ -1,1 +1,1 @@
-# proyectoAnalisisNumerico
+# metodo_Secante
